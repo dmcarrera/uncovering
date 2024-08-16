@@ -1,6 +1,4 @@
-https://app.datacamp.com/learn/fast-tracks/data-scientist-professional/continue/project-worlds-oldest-business?projectId=2510
 
-projecto datacamp culmnado, se debe subir a github
 
 Insttrucciones 
 
